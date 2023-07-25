@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Maximiano Leite | Full Stack Developer
 
 _I'm __27 years old__
-and have __7 years__ of experience
+and have __8 years__ of experience
 as __developer__ and Full Stack
 Developer.   
 ⚡ I’m currently working at __Tecgeo___
@@ -10,9 +10,9 @@ Developer.
 
 ```javascript
 const skills = {
-  'backend': ['NodeJS', 'Typescript', 'Python', 'Java', '.Net Core'],
-  'database': ['PostgreSQL', 'MySQL', 'MongoDB'],
-  'frontend': ['ReactJS', 'HTML5', 'CSS3', 'Javascript', 'Styled-Components', 'Bootstrap'],
+  'backend': ['NodeJS', 'PHP', 'Typescript', 'Python', 'Java', '.Net Core'],
+  'database': ['PostgreSQL', 'MySQL', 'MongoDB', 'MS SQL Server'],
+  'frontend': ['ReactJS', 'Vue', 'HTML5', 'CSS3', 'Javascript', 'Styled-Components', 'Bootstrap', 'Tailwindcss'],
   'mobile': ['React Native'],
   'data science': ['pandas'],
   'architecture': ['DDD', 'SOLID'],
